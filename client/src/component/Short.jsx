@@ -60,7 +60,7 @@ export default function Short() {
           >
             MORE ABOUT ME
           </Link>
-          <img src="/3.png" alt="placeholder" className="h-auto w-full max-w-sm mx-auto block py-4"/>
+          <img src="/also.png" alt="placeholder" className="h-auto w-full max-w-sm mx-auto block py-4"/>
       </motion.div>
     </section>
   );

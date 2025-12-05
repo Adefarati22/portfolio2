@@ -90,7 +90,7 @@ export default function About() {
           variants={fadeInUp}
           className="bg-[#c7c7c7] rounded-2xl flex items-center justify-center"
         >
-          <img src="/2.png" alt="profile placeholder" />
+          <img src="/also2.png" alt="profile placeholder" />
         </motion.div>
       </motion.div>
       <motion.div

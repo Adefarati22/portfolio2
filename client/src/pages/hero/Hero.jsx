@@ -69,7 +69,7 @@ export default function Hero() {
           </motion.div>
           <motion.div variants={slideIn}>
             <img
-              src="/placeholder.png"
+              src="/also2.png"
               alt="placeholder"
               className="bg-[#c7c7c7] rounded-2xl"
             />
